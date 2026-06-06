@@ -1,6 +1,6 @@
-# MCQ / QMC Numerical Programme
+# QMC Numerical Programme
 
-This repository preserves the numerical and methodological artefacts of the **MCQ / QMC** project, especially the 6d scalar conformal-conservative programme and the transition material toward a possible V5 architecture.
+This repository preserves the numerical and methodological artefacts of the **QMC** project, especially the 6d scalar conformal-conservative programme and the transition material toward a possible V5 architecture.
 
 The repository is not intended as a proof of MCQ. It is a reproducible workspace for testing what specific numerical instrumentations can or cannot make observable.
 
@@ -224,18 +224,12 @@ When changing any of these, create a new specification note or clearly document 
 
 ## 10. License / status
 
-This repository is a research workspace. Choose an explicit license before public release.
-
-Suggested options:
-
-- MIT License for code if broad reuse is desired;
-- CC BY-NC-SA for theoretical documents if non-commercial sharing is preferred;
-- private repository until the theoretical framing is ready.
+MIT
 
 ---
 
 ## 11. Short project statement
 
-MCQ / QMC numerical work is not a search for confirmation. It is a sequence of controlled instruments designed to reveal which structures become observable under which constraints, and which debts require a different architecture.
+QMC numerical work is not a search for confirmation. It is a sequence of controlled instruments designed to reveal which structures become observable under which constraints, and which debts require a different architecture.
 
 The 6d branch mapped the scalar conformal-conservative regime. V5, if opened, must begin by preserving that map before extending it.
